@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566978324841",
+    "firebase_url": "https://facebook-loginsignup.firebaseio.com",
+    "project_id": "facebook-loginsignup",
+    "storage_bucket": "facebook-loginsignup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566978324841:android:0bdbe1c68b42ddf902b5f8",
+        "android_client_info": {
+          "package_name": "com.example.facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566978324841-1cjk194l884m40ru40t2hvlqvnua9q0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4X3I2oUc-JpLTlWsGBDRBByGPHNT1MFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566978324841-1cjk194l884m40ru40t2hvlqvnua9q0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
